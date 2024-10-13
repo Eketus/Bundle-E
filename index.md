@@ -13,4 +13,6 @@ _This text is italicized_
 > "Fighting low ranked players is the equivalent of breaching a room and sweeping corners only to discover your enemy taped himself above the door with a grenade."   -Sun Tzu
 
 ## Do images work?
-![Potato](https://github.com/Eketus/Bundle-E/blob/main/Transparent_potato.png)
+![Potato](https://raw.githubusercontent.com/Eketus/Bundle-E/main/Transparent_potato.png
+)
+## **BIG POTATO**
