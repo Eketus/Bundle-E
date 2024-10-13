@@ -3,7 +3,7 @@
 ## What is this website about?
 I am testing how the code and other features work!
 
-**THIS IS BOLD TEXT**
+**THIS IS BOLD TEXT** <br>
 _This text is italicized_
 
 ## Let's test some links
